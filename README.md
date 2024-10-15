@@ -10,8 +10,9 @@ Features:
 Business Account
 Features:
 
-  Generate multiple certificates simultaneously.
-  Upload and use a CSV file to create certificates in bulk.
+Generate multiple certificates simultaneously.
+Upload and use a CSV file to create certificates in bulk.
+
 CSV File Requirements:
 The CSV file must be formatted with the following columns: Date of Certificate Issuance, Certificate Holder's Name, Remark (e.g., "His Excellence in Math"), Signature, Certificate Giver, Certificate Body.
 Note: you would have to input the csv file into the program directory
